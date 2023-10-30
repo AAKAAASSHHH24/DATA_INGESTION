@@ -1,0 +1,5 @@
+chardet
+charset-normalizer
+camelot
+pywin32
+pyoutlook
